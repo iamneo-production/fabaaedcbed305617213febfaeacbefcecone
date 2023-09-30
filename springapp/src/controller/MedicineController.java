@@ -12,4 +12,5 @@ public class MedicineController {
     }
 
     @putMapping("/{medicineId")
+    public Medicine updateMedicine
 }
